@@ -10099,10 +10099,7 @@ local Fruit = Ss:AddLabel("Fruit : ")
     end)
 
 	
-    
-if World1 or World2 then
-RaceV4:AddLabel("Go to Third Sea")
-end
+
 
 if World3 then
     RaceV4:AddSeperator("Race V4")
